@@ -1,11 +1,11 @@
-# 🚗 Carpooling Optimization System using Machine Learning
+#  Carpooling Optimization System using Machine Learning
 
 This project presents an intelligent carpooling optimization system designed to efficiently match drivers and passengers, implement a dynamic pricing model, and ensure equitable cost distribution[cite: 13, 15]. [cite_start]By leveraging a suite of machine learning algorithms and optimization techniques, the system aims to provide a sustainable, cost-effective, and efficient transportation solution[cite: 13, 206].
 
 This system was developed as part of the CSE4036 Machine Learning course project at Vellore Institute of Technology, Chennai[cite: 1, 2, 3].
 
 ---
-## 🎯 Problem Statement
+##  Problem Statement
 
 The primary goal is to develop a comprehensive carpooling system that tackles several key challenges in ride-sharing[cite: 18]:
 
@@ -15,7 +15,7 @@ The primary goal is to develop a comprehensive carpooling system that tackles se
 **System Efficiency**: Minimize waiting times and optimize route selection to balance overall system efficiency with individual user preferences[cite: 35, 36, 37, 38].
 
 ---
-## ✨ Features
+##  Features
 
 The system integrates several advanced ML techniques to deliver a robust solution:
 
@@ -26,7 +26,7 @@ The system integrates several advanced ML techniques to deliver a robust solutio
 **Data Visualization**: Includes a range of visualizations using Matplotlib and Seaborn, such as heatmaps of cluster density, hierarchical dendrograms, and cost distribution plots, to analyze system performance[cite: 161, 314].
 
 ---
-## 🏗️ System Architecture
+##  System Architecture
 
 The system is built on a modular architecture where each component handles a specific optimization task. [cite_start]These components are designed to be integrated via REST APIs for a real-time data processing pipeline[cite: 93, 94, 95].
 
@@ -38,7 +38,7 @@ The system is built on a modular architecture where each component handles a spe
 
 
 ---
-## 🛠️ Setup and Installation
+##  Setup and Installation
 
 To get this project up and running on your local machine, follow these steps.
 
@@ -70,7 +70,7 @@ To get this project up and running on your local machine, follow these steps.
     ```
 
 ---
-## 🚀 Usage
+##  Usage
 
 1.  Place the datasets (`carpooling_dataset.csv` and `daily_petrol_prices.csv`) in the root directory of the project.
 2.  Launch Jupyter Notebook:
@@ -80,7 +80,7 @@ To get this project up and running on your local machine, follow these steps.
 3.  Run the cells in the notebook sequentially to perform data preprocessing, clustering, matching, and analysis.
 
 ---
-## 📊 Results and Analysis
+##  Results and Analysis
 
 The implemented system demonstrated significant improvements in carpooling efficiency and user satisfaction.
 
@@ -104,7 +104,7 @@ The implemented system demonstrated significant improvements in carpooling effic
 
 
 ---
-## 🔮 Future Work
+##  Future Work
 
 Based on the analysis, several areas for future improvement have been identified:
 
@@ -114,7 +114,7 @@ Based on the analysis, several areas for future improvement have been identified
 **User Feedback Loop**: Implement an A/B testing framework and enhance the user feedback integration for continuous model improvement[cite: 156, 157].
 
 ---
-## 🧑‍💻 Contributors
+##  Contributors
 
-* [cite_start]**Dhondi Varun** - `22MIA1200` [cite: 6, 201]
-* [cite_start]**Kashish Gidwani** - `22MIA1117` [cite: 7, 202]
+**Dhondi Varun** - `22MIA1200` [cite: 6, 201]
+**Kashish Gidwani** - `22MIA1117` [cite: 7, 202]

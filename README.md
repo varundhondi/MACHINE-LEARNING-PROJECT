@@ -116,5 +116,5 @@ Based on the analysis, several areas for future improvement have been identified
 ---
 ##  Contributors
 
-**Dhondi Varun** - `22MIA1200` [cite: 6, 201]
-**Kashish Gidwani** - `22MIA1117` [cite: 7, 202]
+**Dhondi Varun** - `22MIA1200` 
+**Kashish Gidwani** - `22MIA1117` 
